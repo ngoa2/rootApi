@@ -1,0 +1,13 @@
+id,BrandName,Environment,EthicalPractices,Transparency,Average,Tags
+1,HM,3,3,3,3,"100% organic cotton, Child labour policies, Freedom of association, Nondiscrimination policies, Recycled materials, Reports available online, Supply chain transparent"
+2,Uniqlo,3,1,2,2,"Eco-friendly materials, Living wage payment unclear, Low supply chain transparency, No COVID-19 worker protection policies, Reports available online"
+3,Zara,1,1,2,1.333333333,"100% renewable energy, Low supply chain transparency, No guarantee of living wage, Reports available online, Unfavorable working conditions, Uses wool and leather"
+4,Nike,2,2,2,2,"100% renewable energy, FLA Workplace Code of Conduct Certified, Moderate supply chain transparency, Reports available online, Sustainable Apparel Coalition Certified, Uses wool and leather"
+5,Adidas,3,3,3,3,"100% sustainable cotton, Chemical usage reduction, Child labour policies, Eco-friendly materials, FLA Workplace Code of Conduct Certified, Nondiscrimination policies, Recycled materials, Reports available online, Supply chain transparent, Water usage reduction"
+6,Forever 21,1,1,1,1,"Low transparency, No chemical waste reduction initiatives, No guarantee of living wage, No supply chain certifications, No textile waste reduction initiatives"
+7,Levi's,2,2,2,2,"100% renewable energy, Chemical usage reduction, Child labour policies, Recycled materials, Reports available online, Responsible Down Standard Certified, Water usage reduction"
+8,Patagonia,3,3,3,3,"Chemical usage reduction, Eco-friendly materials, FLA Workplace Code of Conduct Certified, Fair Trade Certified, Recycled materials, Reports available online, Supply chain transparent, Uses blend of recycled wool, Water usage reduction"
+9,Reformation,2,3,3,2.666666667,"100% Living Wage, Bluesign Certified, Child labour policies, Eco-friendly materials, No exotic animal use, OEKO TEX STANDARD 100 Certified, Recycled materials, Reports available online, Supply chain transparent, Uses wool and leather"
+10,Allbirds,3,2,3,2.666666667,"Eco-friendly materials, Low supply chain transparency, No exotic animal use, No guarantee of living wage, Recycled materials, ZQ Merino Certified Wool"
+11,Everlane,2,2,2,2,"No COVID-19 worker protection policies, No chemical waste reduction initiatives, No guarantee of living wage, No textile waste reduction initiatives, Recycled materials"
+12,Victoria’s Secret ,1,1,1,1,"Living wage payment unclear, Low transparency, No COVID-19 worker protection policies, No supply chain certifications, Unfavorable working conditions"
