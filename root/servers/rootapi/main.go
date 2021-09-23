@@ -50,19 +50,9 @@ func main() {
 	mux := http.NewServeMux()
 
 	mux.HandleFunc("/brandsearch", searchHandler)
-	mux.HandleFunc("/", helloHandler)
 
 	log.Printf("server is listening at %s...", addr)
 	log.Fatal(http.ListenAndServeTLS(addr, tlscert, tlskey, mux))
-}
-
-func helloHandler(w http.ResponseWriter, r *http.Request) {
-	name := r.URL.Query().Get("name")
-	if len(name) == 0 {
-		name = "World"
-	}
-	w.Header().Add("Access-Control-Allow-Origin", "*")
-	w.Write([]byte(fmt.Sprintf("Hello, %s!", name)))
 }
 
 // Search handler queries the database, and responds with a json encoded struct of the requested row
